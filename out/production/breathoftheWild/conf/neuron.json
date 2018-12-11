@@ -1,0 +1,43 @@
+{
+  "build": 341,
+  "diccionary": {
+    "default": "en_US",
+    "dics": [
+      "en_US",
+      "es_MX"
+    ]
+  },
+  "drawable": "org.game.drawable",
+  "message": {
+    "alert": true,
+    "error": true,
+    "info": true
+  },
+  "package": {
+    "company": "org.game",
+    "modules": [
+      "drawable",
+      "model",
+      "controller"
+    ]
+  },
+  "param": "$(conf.{param.json})",
+  "res": {
+    "img": [
+      ".gif",
+      ".bcon"
+    ],
+    "layout": [
+      ".xml",
+      ".txt"
+    ],
+    "raw": [
+      ".mp3",
+      ".mp4"
+    ],
+    "style": [
+    ]
+  },
+  "script": "",
+  "version": "0.0.1"
+}

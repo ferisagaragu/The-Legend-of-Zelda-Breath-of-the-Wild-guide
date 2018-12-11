@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.game.controller.IndexC">
+   <children>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <HBox fx:id="box" alignment="CENTER" prefHeight="35.0" prefWidth="600.0" spacing="30.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Button fx:id="homeBtn" mnemonicParsing="false" text="Home @">
+                     <effect>
+                        <DropShadow color="#fbe818" height="35.0" radius="17.0" width="35.0" />
+                     </effect>
+                  </Button>
+                  <Button fx:id="sendBtn" mnemonicParsing="false" text="Envíar comentario $">
+                     <effect>
+                        <DropShadow color="#fbe818" height="35.0" radius="17.0" width="35.0" />
+                     </effect>
+                  </Button>
+               </children>
+            </HBox>
+            <JFXTabPane fx:id="tabPane" prefHeight="565.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="35.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</StackPane>

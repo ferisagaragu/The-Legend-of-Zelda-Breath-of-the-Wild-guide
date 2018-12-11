@@ -1,0 +1,22 @@
+{
+  "drawable": {
+    "index.fxml": "org/game/drawable/index.fxml"
+  },
+  "img": {
+    "ReturnofGanon.ttf": "res/img/ReturnofGanon.ttf",
+    "bar.png": "res/img/bar.png",
+    "button.png": "res/img/button.png",
+    "icon.png": "res/img/icon.png",
+    "link.jpg": "res/img/link.jpg",
+    "scroll-bar.png": "res/img/scroll-bar.png"
+  },
+  "layout": {
+  },
+  "raw": {
+  },
+  "script": {
+  },
+  "style": {
+    "style.css": "res/style/style.css"
+  }
+}

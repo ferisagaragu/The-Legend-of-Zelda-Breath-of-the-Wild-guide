@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Torre de Lanayru",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-astak.html",
+        "name": "Santuario de Astak",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-mudka.html",
+        "name": "Santuario de Mudka",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "(Prueba de viento - Se requieren bombas explosivas)",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ayopha.html",
+        "name": "Santuario de Ayopha",
+        "requires": "true",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-rukkon.html",
+        "name": "Santuario de Rukkon",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ihloma.html",
+        "name": "Santuario de Ihloma",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-semat.html",
+        "name": "Santuario de Semat",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ishokka.html",
+        "name": "Santuario de Ishokka",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-yamiva.html",
+        "name": "Santuario de Yamiva",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kiddha.html",
+        "name": "Santuario de Kiddha",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Eldin",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-aguith.html",
+        "name": "Santuario de Aguith",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ahram.html",
+        "name": "Santuario de Ahram",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-oraj.html",
+        "name": "Santuario de Oraj",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-raymhi.html",
+        "name": "Santuario de Raymhi",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-dashlak.html",
+        "name": "Santuario de Dashlak",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sadal.html",
+        "name": "Santuario de Sadal",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-himot.html",
+        "name": "Santuario de Himot",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-tamuur.html",
+        "name": "Santuario de Tamuur",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-moakh.html",
+        "name": "Santuario de Moakh",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Akkala",
+    "sanctuary": [
+      {
+        "description": "Prueba heroica: Hacia el vórtice",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-alhim.html",
+        "name": "Santuario de Alhim",
+        "requires": "true",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-cassut.html",
+        "name": "Santuario de Cassut",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "Prueba heroica: La prueba de la isla - Mas resistencia",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kahoi.html",
+        "name": "Santuario de Kahoi",
+        "requires": "true",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kensha.html",
+        "name": "Santuario de Kensha",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-issuk.html",
+        "name": "Santuario de Issuk",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-nihmmat.html",
+        "name": "Santuario de Nihmmat",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-izukna.html",
+        "name": "Santuario de Izukna",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sidlah.html",
+        "name": "Santuario de Sidlah",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de las colinas",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kibaza.html",
+        "name": "Santuario de Kibaza",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-shaoy.html",
+        "name": "Santuario de Shaoy",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-midraoh.html",
+        "name": "Santuario de Midraoh",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-shiddaz.html",
+        "name": "Santuario de Shiddaz",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-moratt.html",
+        "name": "Santuario de Moratt",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-yassa.html",
+        "name": "Santuario de Yassa",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-norahma.html",
+        "name": "Santuario de Norahma",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Picos Gemelos",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ajud.html",
+        "name": "Santuario de Ajud",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ghiar.html",
+        "name": "Santuario de Ghiar",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-rahnnak.html",
+        "name": "Santuario de Rahnnak",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ranhtoe.html",
+        "name": "Santuario de Ranhtoe",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-hiddar.html",
+        "name": "Santuario de Hiddar",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-shibben.html",
+        "name": "Santuario de Shibben",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-niohr.html",
+        "name": "Santuario de Niohr",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-vashik.html",
+        "name": "Santuario de Vashik",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-oissa.html",
+        "name": "Santuario de Oissa",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre del cañón",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-awak.html",
+        "name": "Santuario de Awak",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-hakot.html",
+        "name": "Santuario de Hakot",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-meirah.html",
+        "name": "Santuario de Meirah",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sassmah.html",
+        "name": "Santuario de Sassmah",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-heik.html",
+        "name": "Santuario de Heik",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sevgik.html",
+        "name": "Santuario de Sevgik",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-inyo.html",
+        "name": "Santuario de Inyo",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sumdhi.html",
+        "name": "Santuario de Sumdhi",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ivoshik.html",
+        "name": "Santuario de Ivoshik",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-urokka.html",
+        "name": "Santuario de Urokka",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kajul.html",
+        "name": "Santuario de Kajul",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-zumkah.html",
+        "name": "Santuario de Zumkah",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre del bosque",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-allohk.html",
+        "name": "Santuario de Allohk",
+        "requires": "false",
+        "see": "1"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-motoah.html",
+        "name": "Santuario de Motoah",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-irott.html",
+        "name": "Santuario de Irott",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-nijak.html",
+        "name": "Santuario de Nijak",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-iyouk.html",
+        "name": "Santuario de Iyouk",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-shokdai.html",
+        "name": "Santuario de Shokdai",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-mohmran.html",
+        "name": "Santuario de Mohmran",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-toviak.html",
+        "name": "Santuario de Toviak",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Farone",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-adjiva.html",
+        "name": "Santuario de Adjiva",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-saiut.html",
+        "name": "Santuario de Saiut",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-antuaka.html",
+        "name": "Santuario de Antuaka",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-sarshii.html",
+        "name": "Santuario de Sarshii",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-jiihmu.html",
+        "name": "Santuario de Jiihmu",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-soddash.html",
+        "name": "Santuario de Soddash",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-makai.html",
+        "name": "Santuario de Makai",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-yamak.html",
+        "name": "Santuario de Yamak",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Hebra",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-ahkua.html",
+        "name": "Santuario de Ahkua",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-okkim.html",
+        "name": "Santuario de Okkim",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-aymosh.html",
+        "name": "Santuario de Aymosh",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-rimoa.html",
+        "name": "Santuario de Rimoa",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-geshma.html",
+        "name": "Santuario de Geshma",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-savgom.html",
+        "name": "Santuario de Savgom",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-marahi.html",
+        "name": "Santuario de Marahi",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-shadad.html",
+        "name": "Santuario de Shadad",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-miyah.html",
+        "name": "Santuario de Miyah",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-umkoht.html",
+        "name": "Santuario de Umkoht",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-noihkra.html",
+        "name": "Santuario de Noihkra",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-zakkih.html",
+        "name": "Santuario de Zakkih",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-nubbat.html",
+        "name": "Santuario de Nubbat",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Necluda",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-daune.html",
+        "name": "Santuario de Daune",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-miiz.html",
+        "name": "Santurario de Miiz",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-jitahm.html",
+        "name": "Santuario de Jitahm",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-myam.html",
+        "name": "Santuario de Myam",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-kamur.html",
+        "name": "Santuario de Kamur",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-tannaoh.html",
+        "name": "Santuario de Tannaoh",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "http://www.guiasnintendo.com/2c-switch/zelda-breath-of-the-wild/guia-zelda-breath-of-the-wild/santuario-keltsar.html",
+        "name": "Santuario de Keltsar",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Tabanta",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de la llanura",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre del lago",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  },
+  {
+    "name": "Torre de Gerudo",
+    "sanctuary": [
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      },
+      {
+        "description": "",
+        "do": "false",
+        "link": "",
+        "name": "",
+        "requires": "false",
+        "see": "0"
+      }
+    ]
+  }
+]

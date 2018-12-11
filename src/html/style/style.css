@@ -1,0 +1,27 @@
+@font-face {
+    font-family: ganonFount;
+    src: url("../font/A_Font_with_Serifs.ttf");
+}
+
+body{
+    background-image: url("../img/backgroud.png");
+    font-family: ganonFount;
+    color: #3E2723;
+    background-size: cover;
+    font-size: 25px;
+}
+
+a{
+    color: #E65100;
+    font-weight: bold;
+}
+
+#titulocontenido{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
